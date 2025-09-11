@@ -8,6 +8,7 @@ while (i <= 100):
 
 # java code 
 
+'''
 import java.util.Scanner;
 class Main{
     public static void main(String[] args)
@@ -23,3 +24,19 @@ class Main{
         }
     }
 }
+
+'''
+
+# javascript code
+
+'''
+let i = 1;
+while (i <= 100){
+    if (i % 2 == 0)
+      {
+        console.log(i);
+    }
+   i ++;
+}
+
+'''
